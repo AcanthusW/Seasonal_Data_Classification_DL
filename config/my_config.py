@@ -3,7 +3,7 @@
 # Configuration for dataset paths and model training
 
 # Dataset settings
-dataset_path = 'path/to/your/merged_data.csv'  # Path to the dataset
+dataset_path = 'data/dataset.csv'  # Path to the dataset
 
 # Model parameters
 window_size = 5  # Time window size for LSTM input
