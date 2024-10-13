@@ -1,5 +1,3 @@
-# train.py
-
 import os
 import datetime
 import pandas as pd
