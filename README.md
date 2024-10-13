@@ -31,7 +31,7 @@ To run this project, you need to install the required dependencies. Use the foll
 
 ## Usage Instructions
 
-The dataset is too large to be stored directly in this repository. You can download the dataset from the following Google Drive link: https://drive.google.com/file/d/1tCCQx9c1BHlGrhriokhgtXoMlV7lEZxM/view?usp=sharing
+The dataset is too large to be stored directly in this repository. You can download the dataset from the following Google Drive link: [Google Drive link](https://drive.google.com/file/d/1tCCQx9c1BHlGrhriokhgtXoMlV7lEZxM/view?usp=sharing).
 
 Place your input dataset in the `data/` folder. The path to this dataset should be specified in `my_config.py` as `dataset_path`.
 
