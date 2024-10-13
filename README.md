@@ -9,6 +9,7 @@ The model architecture is designed to capture both local features using CNN laye
 
 
 ```plaintext
+├── model_architecture.png       # architecture of the DL model
 ├── requirements.txt       # Environment details
 ├── config/              # Configuration files for model and training parameters
 ├── model.py               # Defines the CNN+LSTM+Attention model architecture
